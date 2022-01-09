@@ -65,7 +65,7 @@
 
   "Data": [
     {
-      "id": 1,
+      "id": 4,
       "name_category": "Easy",
       "title": "efootball 2022 Game Summary",
       "image": "https://api.duniagames.co.id/api/content//upload/file/12211714291625569578.jpg",
@@ -73,7 +73,7 @@
       "link": "https://sirasaka212.github.io/efootball/GameSummary.html"
     },
     {
-      "id": 2,
+      "id": 3,
       "name_category": "Easy",
       "title": "Carryover Guide for eFootball 2022 Mobile",
       "image": "https://gamerwk.sgp1.cdn.digitaloceanspaces.com/2021/07/1-iCRipSi5cS70lnQH6s5Zyw.jpeg",
@@ -81,7 +81,7 @@
       "link": "https://sirasaka212.github.io/efootball/CarryoverGuide.html"
     },
     {
-      "id": 3,
+      "id": 2,
       "name_category": "Medium",
       "title": "Changes from PES 2021 to eFootball 2022",
       "image": "https://wallpapercave.com/wp/wp9844294.jpg",
@@ -89,7 +89,7 @@
       "link": "https://sirasaka212.github.io/efootball/PES2021toeFootball2022.html"
     },
     {
-      "id": 3,
+      "id": 1,
       "name_category": "Medium",
       "title": "eFootball 2022 Tips & Tricks2",
       "image": "https://middleeast.in-24.com/temp/resized/medium_2021-12-14-d9e6d4be58.jpg",
